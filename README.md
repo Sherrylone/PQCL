@@ -1,4 +1,4 @@
-## Code of ICLR paper [ADCLR](https://openreview.net/pdf?id=10R_bcjFwJ) and ICML paper [PQCL](https://github.com/Sherrylone/sherrylone.github.io/blob/main/assets/ICML23_PQCL.pdf)
+## Code of ICLR paper [ADCLR](https://openreview.net/pdf?id=10R_bcjFwJ) and ICML paper [PQCL](https://sherrylone.github.io/assets/ICML23_PQCL.pdf)
 
 Since ICML is an extension of ICLR, we put the code together.
 
