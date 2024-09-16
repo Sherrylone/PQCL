@@ -1,7 +1,5 @@
 ## Code of ICLR paper [ADCLR](https://openreview.net/pdf?id=10R_bcjFwJ) and ICML paper [PQCL](https://sherrylone.github.io/assets/ICML23_PQCL.pdf)
 
-Since ICML is an extension of ICLR, we put the code together.
-
 ![](https://github.com/Sherrylone/sherrylone.github.io/blob/main/images/ICML23_PQCL.png)
 
 The two papers propose query-based contrastive learning. For ADCLR, we use query crop with pixel information to learn spatial-sensitive information. For PQCL, we further mask the pixel information of the query crops, and add the relative positional embeddings to reconstruct pixel informations. Under the same setting, PQCL can get higher accuracy than ADCLR. 
